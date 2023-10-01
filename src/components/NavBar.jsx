@@ -3,8 +3,8 @@ import React from 'react';
 function HelpMeOutComponent() {
   return (
     <div>
-      <div style={styles.logo}>
-        <img src="/public/logo192.png" alt="Company Logo" />
+      <div className='comp-logo' style={styles.logo}>
+        <img src="../helpmeout1.png" alt="Company Logo" />
         <span className='comp-name'>HelpMeOut</span>
       </div>
       <div className='ex-info'>
