@@ -8,7 +8,7 @@ function HelpMeOutComponent() {
         <span className='comp-name'>HelpMeOut</span>
       </div>
       <div className='ex-info'>
-        This extension helps you record and share help videos with ease.
+        This extension helps you record <br></br>and share help videos with ease.
       </div>
     </div>
   );

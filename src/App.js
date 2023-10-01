@@ -2,12 +2,15 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from "./components/NavBar";
 import Recorder from "./components/Recorder";
+import PermissionsControl from "./components/PermissionsControl";
+
 
 
 function App() {
   return (
     <div className="App">
     <NavBar />
+    <PermissionsControl />
     <Recorder />
     </div>
   );
